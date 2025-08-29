@@ -6,6 +6,12 @@ Codigo de calculo de la esperanza de vida con datos del EMSSAM15
 #          CALCULO DE LLA qx EMSSAM-15
 #===============================================
 #===============================================
+Nota: Profe, La verdad tengo dudas del codigo, 
+lo intente hacer porque me dio curiosidad ver 
+como podria funcionar pero nada mas me confundi
+mas, como que ya no supe si era correcto el 
+concepto que estaba usando 
+#===============================================
 import pandas as pd
 tabla = pd.read_csv("/Users/andybarragan/Desktop/EMSSAM15.csv")
 #===============================================
